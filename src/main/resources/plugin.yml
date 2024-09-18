@@ -1,0 +1,5 @@
+name: ChargedCreepers
+version: '1.0-SNAPSHOT'
+main: winlyps.chargedCreepers.ChargedCreepers
+api-version: '1.16'
+authors: [ Winlyps ]
